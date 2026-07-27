@@ -158,3 +158,6 @@ This project is framed as a product experiment for AI-powered business workflows
 - `python-dotenv`
 - `python-docx`
 - `reportlab`
+## Screenshots
+
+Screenshots will be added in a future update after deployment.
