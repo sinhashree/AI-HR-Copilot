@@ -1,3 +1,10 @@
+## 🚀 Live Demo
+
+👉 https://ai-hr-copilot-3q3xepbq9l8fohxbpyknfy.streamlit.app/
+
+## GitHub Repository
+
+👉 https://github.com/sinhashree/AI-HR-Copilot
 
 # 🤖 AI HR Copilot
 
